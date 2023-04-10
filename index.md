@@ -1,4 +1,3 @@
-[title](#user-page)
 # User Page
 ## Jane Lee
 **Inspirational Quote**
