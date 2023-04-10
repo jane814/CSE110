@@ -1,3 +1,4 @@
+[title](#user-page)
 # User Page
 ## Jane Lee
 **Inspirational Quote**
@@ -9,7 +10,6 @@ git commit
 git push
  ```
 A useful link: [resource](https://code.visualstudio.com/docs/sourcecontrol/overview#_git-support)
-[title](#User Page)
 
 To go to the ReadMe doc: [README](README.md)
 
