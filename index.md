@@ -1,28 +1,34 @@
-# User Page
+# CSE110
 ## Jane Lee
-**Inspirational Quote**
+**A quote to remember**
 >Software is a great combination between artistry and engineering
-Some git commands are:
+>-Bill Gates
+
+Summary:
+I am a 4th year student at UCSD with a Cognitive Science major and a Computer Science minor, aspiring to be a
+software engineer.
+
+My most used git command:
 ```
-git pull
-git commit
 git push
  ```
-A useful link: [resource](https://code.visualstudio.com/docs/sourcecontrol/overview#_git-support)
-
 To go to the ReadMe doc: [README](README.md)
-
-Some Languages I use:
-* Python
-* Java
-* C++
 
 Some of my Favorite Languages:
 1. Java
 2. C++
 3. Python
 
-Lab 1 Tasks:
-- [x] commit changes to repo with git
-- [x] commit changes to repo with VsCode
-- [x] make a user page with markdown 
+Some Hobbies:
+* drawing
+* listening to music
+* playing the piano - a [piece](https://en.wikipedia.org/wiki/Piano_Sonata_No._11_(Mozart)) I've played
+* video games
+
+My Goals in Software Engineering:
+- [] try to think of users as much as possible
+- [] communicate effectively with team members
+- [] design good software
+
+A Fun Fact:
+I have a [yorkie](coco.jpg)
